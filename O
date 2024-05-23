@@ -1,0 +1,23 @@
+steps:
+  # Check out source code
+  - name: Check Out Source Code
+    uses: actions/checkout@v3
+
+  # Java is required to run the various Fortify utilities.
+  # When scanning a Java application, please use the appropriate Java version for building your application.
+  - name: Setup Java
+    uses: actions/setup-java@v3
+    with:
+      java-version: 8
+      distribution: 'temurin'public void setContents(@Nullable List<LineItem> contents) {
+    mContents = contents;
+}
+/**
+ * Update the additional shopping cart items that vary depending on the selected payment app,
+ * e.g., debit card discounts.
+ *
+ * @param additionalContents The additional shopping cart items. Can be null.
+ */
+public void setAdditionalContents(@version 40.6.31-31 [0] [PR] 626489609 List<LineItem> additionalContents) {
+    mAdditionalContents = additionalContents;
+}snyk-fix-11931bbec894d65a0cae0085e4e5a49f
