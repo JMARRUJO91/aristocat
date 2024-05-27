@@ -1,3 +1,49 @@
+cmake_minimum_required(VERSION 3.10)
+project(YourProjectName)
+
+# ... (Your other CMake project settings)
+
+# Hash Validation Function
+function(validate_hash file algorithm expected_hash)
+  execute_process(
+    COMMAND ${algorithm} -q ${file}
+    OUTPUT_VARIABLE actual_hash
+    OUTPUT_STRIP_TRAILING_WHITESPACE
+  )
+
+  if (NOT "${actual_hash}" STREQUAL "${expected_hash}")
+    message(FATAL_ERROR "Hash mismatch for ${file} (${algorithm})")
+  endif()
+endfunction()
+
+
+# Define Files and Hashes
+set(include_base_HXX
+  "SparseMatrix.hxx"
+)
+
+set(HASHES
+  "SparseMatrix.hxx" 
+    MD5 24f4dae418d047fd765ec7a11d62a7b2
+    SHA1 34086a8e4a60d6a10a619aa11ef9dd7c41c56c5f
+    SHA256 fe523ffa1c842b99571343846ecbd3ededfd767fb44b869f98d5c27177c9f7c9
+)
+
+# Validate Hashes
+foreach(file IN LISTS include_base_HXX)
+  list(GET HASHES ${file}_MD5 md5_hash)
+  validate_hash(${file} md5sum ${md5_hash})
+
+  list(GET HASHES ${file}_SHA1 sha1_hash)
+  validate_hash(${file} sha1sum ${sha1_hash})
+
+  list(GET HASHES ${file}_SHA256 sha256_hash)
+  validate_hash(${file} sha256sum ${sha256_hash})
+endforeach()
+
+# Install Headers
+install(FILES ${include_base_HXX} DESTINATION include)
+
 Alameda
 Alpine
 Amador
