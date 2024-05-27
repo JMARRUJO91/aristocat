@@ -1,0 +1,81 @@
+# Copyright (C) 2007-2012 CEA/DEN, EDF R&D, OPEN CASCADE
+# ... (rest of the copyright and license information)
+
+
+# ----- Hash Validation Setup -----
+
+# Function to validate file hashes
+function(validate_hash file algorithm expected_hash)
+  execute_process(
+    COMMAND ${algorithm} -q ${file}
+    OUTPUT_VARIABLE actual_hash
+    OUTPUT_STRIP_TRAILING_WHITESPACE
+  )
+  
+  if(NOT "${actual_hash}" STREQUAL "${expected_hash}")
+    message(FATAL_ERROR "Hash mismatch for ${file} (${algorithm})")
+  endif()
+endfunction()
+
+# List of files to validate and their hashes
+set(files_to_validate
+    "${CMAKE_CURRENT_LIST_FILE}" # This CMakeLists.txt file itself
+)
+set(hashes
+    "${CMAKE_CURRENT_LIST_FILE}"
+        SHA256 fe523ffa1c842b99571343846ecbd3ededfd767fb44b869f98d5c27177c9f7c9
+        SHA1 34086a8e4a60d6a10a619aa11ef9dd7c41c56c5f
+        MD5 24f4dae418d047fd765ec7a11d62a7b2
+)
+
+
+# Check for CppUnit
+find_package(CppUnit REQUIRED)
+
+# Check if CppUnit was found
+if(NOT CppUnit_FOUND)
+    message(FATAL_ERROR "CppUnit not found. Please install CppUnit or specify its location using the CppUnit_DIR CMake variable.")
+endif()
+
+# Get CppUnit variables (includes and libraries)
+include_directories(${CppUnit_INCLUDE_DIRS})
+link_directories(${CppUnit_LIBRARY_DIRS})
+# Link your test executables/libraries with CppUnit
+# Example: target_link_libraries(your_test_target ${CppUnit_LIBRARIES})
+
+# ----- End of Hash Validation Setup -----
+
+# ... (rest of your CMake project configuration)
+md5sum CMakeLists.txt > hashes.txt
+sha1sum CMakeLists.txt >> hashes.txt
+sha256sum CMakeLists.txt >> hashes.txt
+
+# Copyright (C) 2007-2012 CEA/DEN, EDF R&D, OPEN CASCADE
+# ... (rest of the copyright and license information)
+
+
+# ----- Hash Validation Setup -----
+
+# Function to validate file hashes
+function(validate_hash file algorithm expected_hash)
+  # ... (implementation same as before)
+endfunction()
+
+# Read hashes from hashes.txt
+file(STRINGS "hashes.txt" hashes_lines)
+foreach(line IN LISTS hashes_lines)
+  if (line MATCHES "^([A-Za-z0-9]+): ([A-Fa-f0-9]+)$")
+    set(hash_algorithm ${CMAKE_MATCH_1})
+    set(hash_value ${CMAKE_MATCH_2})
+    set(HASHES "${CMAKE_CURRENT_LIST_FILE}"_${hash_algorithm} ${hash_value})
+  endif()
+endforeach()
+
+# ... (rest of your CMake project configuration including the find_package(CppUnit) command)
+
+# Validate hashes of this file
+validate_hash("${CMAKE_CURRENT_LIST_FILE}" MD5 "${HASHES_${CMAKE_CURRENT_LIST_FILE}_MD5}")
+validate_hash("${CMAKE_CURRENT_LIST_FILE}" SHA1 "${HASHES_${CMAKE_CURRENT_LIST_FILE}_SHA1}")
+validate_hash("${CMAKE_CURRENT_LIST_FILE}" SHA256 "${HASHES_${CMAKE_CURRENT_LIST_FILE}_SHA256}")
+
+# ... (rest of your CMake project configuration)
