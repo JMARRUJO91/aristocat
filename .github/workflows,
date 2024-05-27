@@ -1,0 +1,40 @@
+#ifndef __CDMATHEXCEPTION_HXX__
+#define __CDMATHEXCEPTION_HXX__
+
+#include <string>
+#include <exception>
+#include <sstream>   // For building formatted error messages
+
+class CdmathException : public std::exception
+{
+public:
+    CdmathException(const std::string& reason) : _reason(reason) {}
+    CdmathException(const std::string& reason, const std::string& file, int line) 
+        : _reason(BuildMessage(reason, file, line)) {}
+    
+    ~CdmathException() throw () {} // Virtual destructor
+
+    const char* what() const throw() override {
+        return _reason.c_str();
+    }
+
+private:
+    std::string _reason;
+
+    // Helper function to format the error message
+    static std::string BuildMessage(const std::string& reason, const std::string& file, int line) {
+        std::ostringstream oss;
+        oss << reason << " (File: " << file << ", Line: " << line << ")";
+        return oss.str();
+    }
+};
+
+#endif
+#include "CdmathException.hxx" 
+
+double divide(double a, double b) {
+    if (b == 0.0) {
+        throw CdmathException("Division by zero", __FILE__, __LINE__);
+    }
+    return a / b;
+}
