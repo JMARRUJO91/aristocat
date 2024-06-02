@@ -1,0 +1,735 @@
+Google APIs Terms of Service
+Google APIs Terms of Service
+Last modified: November 9, 2021 (view archived version)
+Thank you for using Google's APIs, other developer services, and associated software (collectively, "APIs"). By accessing or using our APIs, you are agreeing to the terms below. If there is a conflict between these terms and additional terms applicable to a given API, the additional terms will control for that conflict. Collectively, we refer to the terms below, any additional terms, terms within the accompanying API documentation, and any applicable policies and guidelines as the "Terms." You agree to comply with the Terms and that the Terms control your relationship with us. So please read all the Terms carefully. If you use the APIs as an interface to, or in conjunction with other Google products or services, then the terms for those other products or services also apply.
+
+Under the Terms, "Google" means Google LLC., with offices at 1600 Amphitheatre Parkway, Mountain View, California 94043, United States, unless set forth otherwise in additional terms applicable for a given API. We may refer to "Google" as "we", "our", or "us" in the Terms.
+
+Account and Registration
+a. Accepting the Terms You may not use the APIs and may not accept the Terms if (a) you are not of legal age to form a binding contract with Google, or (b) you are a person barred from using or receiving the APIs under the applicable laws of the United States or other countries including the country in which you are resident or from which you use the APIs.
+b. Entity Level Acceptance If you are using the APIs on behalf of an entity, you represent and warrant that you have authority to bind that entity to the Terms and by accepting the Terms, you are doing so on behalf of that entity (and all references to "you" in the Terms refer to that entity).
+c. Registration In order to access certain APIs you may be required to provide certain information (such as identification or contact details) as part of the registration process for the APIs, or as part of your continued use of the APIs. Any registration information you give to Google will always be accurate and up to date and you'll inform us promptly of any updates.
+d. Subsidiaries and Affiliates Google has subsidiaries and affiliated legal entities around the world. These companies may provide the APIs to you on behalf of Google and the Terms will also govern your relationship with these companies.
+Using Our APIs
+a. Your End Users You will require your end users to comply with (and not knowingly enable them to violate) applicable law, regulation, and the Terms.
+b. Compliance with Law, Third Party Rights, and Other Google Terms of Service You will comply with all applicable law, regulation, and third party rights (including without limitation laws regarding the import or export of data or software, privacy, and local laws). You will not use the APIs to encourage or promote illegal activity or violation of third party rights. You will not violate any other terms of service with Google (or its affiliates).
+c. Permitted Access You will only access (or attempt to access) an API by the means described in the documentation of that API. If Google assigns you developer credentials (e.g. client IDs), you must use them with the applicable APIs. You will not misrepresent or mask either your identity or your API Client's identity when using the APIs or developer accounts.
+d. API Limitations Google sets and enforces limits on your use of the APIs (e.g. limiting the number of API requests that you may make or the number of users you may serve), in our sole discretion. You agree to, and will not attempt to circumvent, such limitations documented with each API. If you would like to use any API beyond these limits, you must obtain Google's express consent (and Google may decline such request or condition acceptance on your agreement to additional terms and/or charges for that use). To seek such approval, contact the relevant Google API team for information (e.g. by using the Google developers console).
+e. Open Source Software Some of the software required by or included in our APIs may be offered under an open source license. Open source software licenses constitute separate written agreements. For certain APIs, open source software is listed in the documentation. To the limited extent the open source software license expressly supersedes the Terms, the open source license instead sets forth your agreement with Google for the applicable open source software.
+f. Communication with Google We may send you certain communications in connection with your use of the APIs. Please review the applicable API documentation for information about opting out of certain types of communication.
+g. Feedback If you provide feedback or suggestions about our APIs, then we (and those we allow) may use such information without obligation to you.
+h. Non-Exclusivity The Terms are non-exclusive. You acknowledge that Google may develop products or services that may compete with the API Clients or any other products or services.
+i. Google Controller-Controller Data Protection Terms To the extent required by data protection laws applicable to the parties' processing of personal data under these Terms, the parties agree to the Google Controller-Controller Data Protection Terms.
+Your API Clients
+a. API Clients and Monitoring The APIs are designed to help you enhance your websites and applications ("API Client(s)"). YOU AGREE THAT GOOGLE MAY MONITOR USE OF THE APIS TO ENSURE QUALITY, IMPROVE GOOGLE PRODUCTS AND SERVICES, AND VERIFY YOUR COMPLIANCE WITH THE TERMS. This monitoring may include Google accessing and using your API Client, for example to identify security issues that could affect Google or its users. You will not interfere with this monitoring. Google may use any technical means to overcome such interference. Google may suspend access to the APIs by you or your API Client without notice if we reasonably believe that you are in violation of the Terms.
+b. Security You will use commercially reasonable efforts to protect user information collected by your API Client, including personal data, from unauthorized access or use and will promptly report to your users any unauthorized access or use of such information to the extent required by applicable law.
+c. Ownership Google does not acquire ownership in your API Clients, and by using our APIs, you do not acquire ownership of any rights in our APIs or the content that is accessed through our APIs.
+d. User Privacy and API Clients You will comply with (1) all applicable privacy laws and regulations including those applying to personal data and (2) the Google API Services User Data Policy, which governs your use of the APIs when you request access to Google user information. You will provide and adhere to a privacy policy for your API Client that clearly and accurately describes to users of your API Client what user information you collect and how you use and share such information (including for advertising) with Google and third parties.
+Prohibitions and Confidentiality
+a. API Prohibitions When using the APIs, you may not (or allow those acting on your behalf to):
+Sublicense an API for use by a third party. Consequently, you will not create an API Client that functions substantially the same as the APIs and offer it for use by third parties.
+Perform an action with the intent of introducing to Google products and services any viruses, worms, defects, Trojan horses, malware, or any items of a destructive nature.
+Defame, abuse, harass, stalk, or threaten others.
+Interfere with or disrupt the APIs or the servers or networks providing the APIs.
+Promote or facilitate unlawful online gambling or disruptive commercial messages or advertisements.
+Reverse engineer or attempt to extract the source code from any API or any related software, except to the extent that this restriction is expressly prohibited by applicable law.
+Use the APIs for any activities where the use or failure of the APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, or life support systems).
+Use the APIs to process or store any data that is subject to the International Traffic in Arms Regulations maintained by the U.S. Department of State.
+Remove, obscure, or alter any Google terms of service or any links to or notices of those terms.
+Unless otherwise specified in writing by Google, Google does not intend use of the APIs to create obligations under the Health Insurance Portability and Accountability Act, as amended ("HIPAA"), and makes no representations that the APIs satisfy HIPAA requirements. If you are (or become) a "covered entity" or "business associate" as defined in HIPAA, you will not use the APIs for any purpose or in any manner involving transmitting protected health information to Google unless you have received prior written consent to such use from Google.
+
+b. Confidential Matters
+Developer credentials (such as passwords, keys, and client IDs) are intended to be used by you and identify your API Client. You will keep your credentials confidential and make reasonable efforts to prevent and discourage other API Clients from using your credentials. Developer credentials may not be embedded in open source projects.
+Our communications to you and our APIs may contain Google confidential information. Google confidential information includes any materials, communications, and information that are marked confidential or that would normally be considered confidential under the circumstances. If you receive any such information, then you will not disclose it to any third party without Google's prior written consent. Google confidential information does not include information that you independently developed, that was rightfully given to you by a third party without confidentiality obligation, or that becomes public through no fault of your own. You may disclose Google confidential information when compelled to do so by law if you provide us reasonable prior notice, unless a court orders that we not receive notice.
+Content
+a. Content Accessible Through our APIs Our APIs contain some third party content (such as text, images, videos, audio, or software). This content is the sole responsibility of the person that makes it available. We may sometimes review content to determine whether it is illegal or violates our policies or the Terms, and we may remove or refuse to display content. Finally, content accessible through our APIs may be subject to intellectual property rights, and, if so, you may not use it unless you are licensed to do so by the owner of that content or are otherwise permitted by law. Your access to the content provided by the API may be restricted, limited, or filtered in accordance with applicable law, regulation, and policy.
+b. Submission of Content Some of our APIs allow the submission of content. Google does not acquire any ownership of any intellectual property rights in the content that you submit to our APIs through your API Client, except as expressly provided in the Terms. For the sole purpose of enabling Google to provide, secure, and improve the APIs (and the related service(s)) and only in accordance with the applicable Google privacy policies, you give Google a perpetual, irrevocable, worldwide, sublicensable, royalty-free, and non-exclusive license to Use content submitted, posted, or displayed to or from the APIs through your API Client. "Use" means use, host, store, modify, communicate, and publish. Before you submit content to our APIs through your API Client, you will ensure that you have the necessary rights (including the necessary rights from your end users) to grant us the license.
+c. Retrieval of content When a user's non-public content is obtained through the APIs, you may not expose that content to other users or to third parties without explicit opt-in consent from that user.
+d. Data Portability Google supports data portability. For as long as you use or store any user data that you obtained through the APIs, you agree to enable your users to export their equivalent data to other services or applications of their choice in a way that's substantially as fast and easy as exporting such data from Google products and services, subject to applicable laws, and you agree that you will not make that data available to third parties who do not also abide by this obligation.
+e. Prohibitions on Content Unless expressly permitted by the content owner or by applicable law, you will not, and will not permit your end users or others acting on your behalf to, do the following with content returned from the APIs:
+Scrape, build databases, or otherwise create permanent copies of such content, or keep cached copies longer than permitted by the cache header;
+Copy, translate, modify, create a derivative work of, sell, lease, lend, convey, distribute, publicly display, or sublicense to any third party;
+Misrepresent the source or ownership; or
+Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or falsify or delete any author attributions, legal notices, or other labels of the origin or source of material.
+Brand Features; Attribution
+a. Brand Features "Brand Features" is defined as the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party. Except where expressly stated, the Terms do not grant either party any right, title, or interest in or to the other party's Brand Features. All use by you of Google's Brand Features (including any goodwill associated therewith) will inure to the benefit of Google.
+b. Attribution You agree to display any attribution(s) required by Google as described in the documentation for the API. Google hereby grants to you a nontransferable, nonsublicenseable, nonexclusive license while the Terms are in effect to display Google's Brand Features for the purpose of promoting or advertising that you use the APIs. You must only use the Google Brand Features in accordance with the Terms and for the purpose of fulfilling your obligations under this Section. In using Google's Brand Features, you must follow the Google Brand Features Use Guidelines. You understand and agree that Google has the sole discretion to determine whether your attribution(s) and use of Google's Brand Features are in accordance with the above requirements and guidelines.
+c. Publicity You will not make any statement regarding your use of an API which suggests partnership with, sponsorship by, or endorsement by Google without Google's prior written approval.
+d. Promotional and Marketing Use In the course of promoting, marketing, or demonstrating the APIs you are using and the associated Google products, Google may produce and distribute incidental depictions, including screenshots, video, or other content from your API Client, and may use your company or product name. You grant us all necessary rights for the above purposes.
+Privacy and Copyright Protection
+a. Google Privacy Policies By using our APIs, Google may use submitted information in accordance with our privacy policies.
+b. Google DMCA Policy We provide information to help copyright holders manage their intellectual property online, but we can't determine whether something is being used legally or not without their input. We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. Digital Millennium Copyright Act. If you think somebody is violating your copyrights and want to notify us, you can find information about submitting notices and Google's policy about responding to notices in our Help Center.
+Termination
+a. Termination You may stop using our APIs at any time with or without notice. Further, if you want to terminate the Terms, you must provide Google with prior written notice and upon termination, cease your use of the applicable APIs. Google reserves the right to terminate the Terms with you or discontinue the APIs or any portion or feature or your access thereto for any reason and at any time without liability or other obligation to you.
+b. Your Obligations Post-Termination Upon any termination of the Terms or discontinuation of your access to an API, you will immediately stop using the API, cease all use of the Google Brand Features, and delete any cached or stored content that was permitted by the cache header under Section 5. Google may independently communicate with any account owner whose account(s) are associated with your API Client and developer credentials to provide notice of the termination of your right to use an API.
+c. Surviving Provisions When the Terms come to an end, those terms that by their nature are intended to continue indefinitely will continue to apply, including but not limited to: Sections 4b, 5, 8, 9, and 10.
+Liability for our APIs
+A. WARRANTIES EXCEPT AS EXPRESSLY SET OUT IN THE TERMS, NEITHER GOOGLE NOR ITS SUPPLIERS OR DISTRIBUTORS MAKE ANY SPECIFIC PROMISES ABOUT THE APIS. FOR EXAMPLE, WE DON'T MAKE ANY COMMITMENTS ABOUT THE CONTENT ACCESSED THROUGH THE APIS, THE SPECIFIC FUNCTIONS OF THE APIS, OR THEIR RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS. WE PROVIDE THE APIS "AS IS".
+SOME JURISDICTIONS PROVIDE FOR CERTAIN WARRANTIES, LIKE THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. EXCEPT AS EXPRESSLY PROVIDED FOR IN THE TERMS, TO THE EXTENT PERMITTED BY LAW, WE EXCLUDE ALL WARRANTIES, GUARANTEES, CONDITIONS, REPRESENTATIONS, AND UNDERTAKINGS.
+
+B. LIMITATION OF LIABILITY WHEN PERMITTED BY LAW, GOOGLE, AND GOOGLE'S SUPPLIERS AND DISTRIBUTORS, WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR DATA; FINANCIAL LOSSES; OR INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES.
+TO THE EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, FOR ANY CLAIM UNDER THE TERMS, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO THE AMOUNT YOU PAID US TO USE THE APPLICABLE APIS (OR, IF WE CHOOSE, TO SUPPLYING YOU THE APIS AGAIN) DURING THE SIX MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY.
+
+IN ALL CASES, GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE LIABLE FOR ANY EXPENSE, LOSS, OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE.
+
+c. Indemnification Unless prohibited by applicable law, if you are a business, you will defend and indemnify Google, and its affiliates, directors, officers, employees, and users, against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any allegation or third-party legal proceeding to the extent arising from:
+your misuse or your end user's misuse of the APIs;
+your violation or your end user's violation of the Terms; or
+any content or data routed into or used with the APIs by you, those acting on your behalf, or your end users.
+General Provisions
+a. Modification We may modify the Terms or any portion to, for example, reflect changes to the law or changes to our APIs. You should look at the Terms regularly. We'll post notice of modifications to the Terms within the documentation of each applicable API, to this website, and/or in the Google developers console. Changes will not apply retroactively and will become effective no sooner than 30 days after they are posted. But changes addressing new functions for an API or changes made for legal reasons will be effective immediately. If you do not agree to the modified Terms for an API, you should discontinue your use of that API. Your continued use of the API constitutes your acceptance of the modified Terms.
+b. U.S. Federal Agency Entities The APIs were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto.
+c. General Legal Terms We each agree to contract in the English language. If we provide a translation of the Terms, we do so for your convenience only and the English Terms will solely govern our relationship. The Terms do not create any third party beneficiary rights or any agency, partnership, or joint venture. Nothing in the Terms will limit either party's ability to seek injunctive relief. We are not liable for failure or delay in performance to the extent caused by circumstances beyond our reasonable control. If you do not comply with the Terms, and Google does not take action right away, this does not mean that Google is giving up any rights that it may have (such as taking action in the future). If it turns out that a particular term is not enforceable, this will not affect any other terms. The Terms are the entire agreement between you and Google relating to its subject and supersede any prior or contemporaneous agreements on that subject. For information about how to contact Google, please visit our contact page.
+Except as set forth below: (i) the laws of California, U.S.A., excluding California's conflict of laws rules, will apply to any disputes arising out of or related to the Terms or the APIs and (ii) ALL CLAIMS ARISING OUT OF OR RELATING TO THE TERMS OR THE APIS WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA, AND YOU AND GOOGLE CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
+
+If you are accepting the Terms on behalf of a United States federal government entity, then the following applies instead of the paragraph above: the laws of the United States of America, excluding its conflict of laws rules, will apply to any disputes arising out of or related to the Terms or the APIs. Solely to the extent permitted by United States Federal law: (i) the laws of the State of California (excluding California's conflict of laws rules) will apply in the absence of applicable federal law; and (ii) FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE TERMS OR THE APIS, THE PARTIES CONSENT TO PERSONAL JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, THE COURTS IN SANTA CLARA COUNTY, CALIFORNIA.
+
+If you are accepting the Terms on behalf of a United States city, county, or state government entity, then the following applies instead of the paragraph above: the parties agree to remain silent regarding governing law and venue.
+
+To use Gemini API, Google AI Studio, and the other Google developer services that reference these terms (collectively, the "APIs" or "Services"), you must accept (1) the Google APIs Terms of Service (the "API Terms"), and (2) these Gemini API Additional Terms of Service (the "Additional Terms"). Terms that are not defined in these Additional Terms have the meanings given in the API Terms.
+
+Age Requirements
+You must be 18 years of age or older to use the APIs. You also will not use the Services as part of a website, application, or other service (collectively, "API Clients") that is directed towards or is likely to be accessed by individuals under the age of 18.
+
+Use Restrictions
+You may use API Clients for production use but Google may enforce rate limits. You may not use any Services identified as "Preview" for production use.
+
+You may only access the Services (or make API Clients available to users) within an available region. You may use only Paid Services when making API Clients available to users in the European Economic Area, Switzerland, or the United Kingdom.
+
+You may not use the Services to develop models that compete with the Services (e.g., Gemini API or Google AI Studio). You also may not attempt to extract or replicate the underlying models (e.g., parameter weights).
+
+In addition to the "API Prohibitions" section in the API Terms, you must comply with our Prohibited Use Policy, which provides additional details about appropriate conduct when using the Services.
+
+The Services include safety features to block harmful content, such as content that violates our Prohibited Use Policy. You may not attempt to bypass these protective measures or use content that violates the API Terms or these Additional Terms. You should only lower safety settings if necessary and appropriate for your use case. Applications with less restrictive safety settings may be subject to Google's review and approval.
+
+You may not use the Services in clinical practice, to provide medical advice, or in any manner that is overseen by or requires clearance or approval from a medical device regulatory agency.
+
+Use of Generated Content
+Some of our Services allow you to generate original content. Google won't claim ownership over that content. You acknowledge that Google may generate the same or similar content for others and that we reserve all rights to do so.
+
+As required by the API Terms, you'll comply with applicable law in using generated content, which may require the provision of attribution to your users when returned as part of an API call. Use discretion before relying on generated content, including code. You're responsible for your use of generated content, and for the use of that content by anyone you share it with.
+
+Paid Services
+The terms in this "Paid Services" section apply solely to your use of paid Services ("Paid Services"), as opposed to any Services that are offered free of charge like direct interactions with Google AI Studio or unpaid quota in Gemini API ("Unpaid Services"). Where the same offering is available both for a fee and free of charge (e.g., unpaid quota available in Gemini API unless your associated project has billing enabled under your Cloud Billing account), it is considered a Paid Service when you are being charged for it, and an Unpaid Service when you are not.
+
+If you're in the European Economic Area, Switzerland, or the United Kingdom, the terms applicable to Paid Services apply to all Services including AI Studio even though it's offered free of charge. For Paid Services, "Google" as used in these Terms has the meaning given here.
+
+Payment Terms
+Billing and payments for Paid Services are handled by Cloud Billing in the Google Cloud Platform.
+
+As such, Section 2 (Payment Terms) and Section 14 (Miscellaneous) of the Google Cloud Platform Terms of Service govern payments, invoicing, billing, payment disputes, and related issues, while these Terms govern your use of the Paid Services. These Terms do not govern your direct use of any Google Cloud Platform service (including those listed on the Google Cloud Platform Services Summary).
+
+"Fees" (as used in the Google Cloud Platform Terms of Service) for Paid Services are as specified on our pricing page. Google may make changes to this pricing from time to time, effective 30 days after they are posted unless otherwise specified (or in the case of new Paid Services, where pricing takes effect immediately unless otherwise specified). Your continued use of the Paid Services constitutes your consent to those changes.
+
+Data Use for Paid Services
+When you're using Paid Services, Google doesn't use your prompts (including associated system instructions, cached content, and files such as images, videos, or documents) or responses to improve our products, and will process your prompts and responses in accordance with the Data Processing Addendum for Products Where Google is a Data Processor. This data may be stored transiently or cached in any country in which Google or its agents maintain facilities.
+
+Other data we collect while providing the Paid Services to you, such as account information and settings, billing history, direct communications and feedback, and usage details (e.g., information about usage including token count per prompt and response, operational status, safety filter triggers, software errors and crash reports, authentication details, quality and performance metrics, and other technical details necessary for Google to operate and maintain Services, which may include device identifiers, identifiers from cookies or tokens, and IP addresses) remains subject to the Google Controller-Controller Data Protection Terms and Google Privacy Policy referenced in the API Terms.
+
+Data Use for Unpaid Services
+The terms in this section apply solely to your use of Unpaid Services.
+
+The license you grant to Google under the "Submission of Content" section in the API Terms also extends, to the extent required under applicable law for our use, to any content (e.g., prompts, including associated system instructions, cached content, and files such as images, videos, or documents) you submit to the Services and to any generated responses. Google uses this data, consistent with our Privacy Policy, to provide, improve, and develop Google products and services and machine learning technologies, including Google’s enterprise features, products, and services.
+
+To help with quality and improve our products, human reviewers may read, annotate, and process your API input and output. Google takes steps to protect your privacy as part of this process. This includes disconnecting this data from your Google Account, API key, and Cloud project before reviewers see or annotate it. Do not submit sensitive, confidential, or personal information to the Unpaid Services.
+
+Google only uses content that you import or upload to our model tuning feature for that express purpose. Tuning content may be retained in connection with your tuned models for purposes of re-tuning when supported models change. When you delete a tuned model, the related tuning content is also deleted.
+
+Disclaimers
+The Services include experimental technology and may sometimes provide inaccurate or offensive content that doesn't represent Google's views.
+
+Use discretion before relying on, publishing, or otherwise using content provided by the Services.
+
+Don't rely on the Services for medical, legal, financial, or other professional advice. Any content regarding those topics is provided for informational purposes only and is not a substitute for advice from a qualified professional. Content does not constitute medical treatment or diagnosis
+
+Google APIs Terms of Service
+Google APIs Terms of Service
+Last modified: November 9, 2021 (view archived version)
+Thank you for using Google's APIs, other developer services, and associated software (collectively, "APIs"). By accessing or using our APIs, you are agreeing to the terms below. If there is a conflict between these terms and additional terms applicable to a given API, the additional terms will control for that conflict. Collectively, we refer to the terms below, any additional terms, terms within the accompanying API documentation, and any applicable policies and guidelines as the "Terms." You agree to comply with the Terms and that the Terms control your relationship with us. So please read all the Terms carefully. If you use the APIs as an interface to, or in conjunction with other Google products or services, then the terms for those other products or services also apply.
+
+Under the Terms, "Google" means Google LLC., with offices at 1600 Amphitheatre Parkway, Mountain View, California 94043, United States, unless set forth otherwise in additional terms applicable for a given API. We may refer to "Google" as "we", "our", or "us" in the Terms.
+
+Account and Registration
+a. Accepting the Terms You may not use the APIs and may not accept the Terms if (a) you are not of legal age to form a binding contract with Google, or (b) you are a person barred from using or receiving the APIs under the applicable laws of the United States or other countries including the country in which you are resident or from which you use the APIs.
+b. Entity Level Acceptance If you are using the APIs on behalf of an entity, you represent and warrant that you have authority to bind that entity to the Terms and by accepting the Terms, you are doing so on behalf of that entity (and all references to "you" in the Terms refer to that entity).
+c. Registration In order to access certain APIs you may be required to provide certain information (such as identification or contact details) as part of the registration process for the APIs, or as part of your continued use of the APIs. Any registration information you give to Google will always be accurate and up to date and you'll inform us promptly of any updates.
+d. Subsidiaries and Affiliates Google has subsidiaries and affiliated legal entities around the world. These companies may provide the APIs to you on behalf of Google and the Terms will also govern your relationship with these companies.
+Using Our APIs
+a. Your End Users You will require your end users to comply with (and not knowingly enable them to violate) applicable law, regulation, and the Terms.
+b. Compliance with Law, Third Party Rights, and Other Google Terms of Service You will comply with all applicable law, regulation, and third party rights (including without limitation laws regarding the import or export of data or software, privacy, and local laws). You will not use the APIs to encourage or promote illegal activity or violation of third party rights. You will not violate any other terms of service with Google (or its affiliates).
+c. Permitted Access You will only access (or attempt to access) an API by the means described in the documentation of that API. If Google assigns you developer credentials (e.g. client IDs), you must use them with the applicable APIs. You will not misrepresent or mask either your identity or your API Client's identity when using the APIs or developer accounts.
+d. API Limitations Google sets and enforces limits on your use of the APIs (e.g. limiting the number of API requests that you may make or the number of users you may serve), in our sole discretion. You agree to, and will not attempt to circumvent, such limitations documented with each API. If you would like to use any API beyond these limits, you must obtain Google's express consent (and Google may decline such request or condition acceptance on your agreement to additional terms and/or charges for that use). To seek such approval, contact the relevant Google API team for information (e.g. by using the Google developers console).
+e. Open Source Software Some of the software required by or included in our APIs may be offered under an open source license. Open source software licenses constitute separate written agreements. For certain APIs, open source software is listed in the documentation. To the limited extent the open source software license expressly supersedes the Terms, the open source license instead sets forth your agreement with Google for the applicable open source software.
+f. Communication with Google We may send you certain communications in connection with your use of the APIs. Please review the applicable API documentation for information about opting out of certain types of communication.
+g. Feedback If you provide feedback or suggestions about our APIs, then we (and those we allow) may use such information without obligation to you.
+h. Non-Exclusivity The Terms are non-exclusive. You acknowledge that Google may develop products or services that may compete with the API Clients or any other products or services.
+i. Google Controller-Controller Data Protection Terms To the extent required by data protection laws applicable to the parties' processing of personal data under these Terms, the parties agree to the Google Controller-Controller Data Protection Terms.
+Your API Clients
+a. API Clients and Monitoring The APIs are designed to help you enhance your websites and applications ("API Client(s)"). YOU AGREE THAT GOOGLE MAY MONITOR USE OF THE APIS TO ENSURE QUALITY, IMPROVE GOOGLE PRODUCTS AND SERVICES, AND VERIFY YOUR COMPLIANCE WITH THE TERMS. This monitoring may include Google accessing and using your API Client, for example to identify security issues that could affect Google or its users. You will not interfere with this monitoring. Google may use any technical means to overcome such interference. Google may suspend access to the APIs by you or your API Client without notice if we reasonably believe that you are in violation of the Terms.
+b. Security You will use commercially reasonable efforts to protect user information collected by your API Client, including personal data, from unauthorized access or use and will promptly report to your users any unauthorized access or use of such information to the extent required by applicable law.
+c. Ownership Google does not acquire ownership in your API Clients, and by using our APIs, you do not acquire ownership of any rights in our APIs or the content that is accessed through our APIs.
+d. User Privacy and API Clients You will comply with (1) all applicable privacy laws and regulations including those applying to personal data and (2) the Google API Services User Data Policy, which governs your use of the APIs when you request access to Google user information. You will provide and adhere to a privacy policy for your API Client that clearly and accurately describes to users of your API Client what user information you collect and how you use and share such information (including for advertising) with Google and third parties.
+Prohibitions and Confidentiality
+a. API Prohibitions When using the APIs, you may not (or allow those acting on your behalf to):
+Sublicense an API for use by a third party. Consequently, you will not create an API Client that functions substantially the same as the APIs and offer it for use by third parties.
+Perform an action with the intent of introducing to Google products and services any viruses, worms, defects, Trojan horses, malware, or any items of a destructive nature.
+Defame, abuse, harass, stalk, or threaten others.
+Interfere with or disrupt the APIs or the servers or networks providing the APIs.
+Promote or facilitate unlawful online gambling or disruptive commercial messages or advertisements.
+Reverse engineer or attempt to extract the source code from any API or any related software, except to the extent that this restriction is expressly prohibited by applicable law.
+Use the APIs for any activities where the use or failure of the APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, or life support systems).
+Use the APIs to process or store any data that is subject to the International Traffic in Arms Regulations maintained by the U.S. Department of State.
+Remove, obscure, or alter any Google terms of service or any links to or notices of those terms.
+Unless otherwise specified in writing by Google, Google does not intend use of the APIs to create obligations under the Health Insurance Portability and Accountability Act, as amended ("HIPAA"), and makes no representations that the APIs satisfy HIPAA requirements. If you are (or become) a "covered entity" or "business associate" as defined in HIPAA, you will not use the APIs for any purpose or in any manner involving transmitting protected health information to Google unless you have received prior written consent to such use from Google.
+
+b. Confidential Matters
+Developer credentials (such as passwords, keys, and client IDs) are intended to be used by you and identify your API Client. You will keep your credentials confidential and make reasonable efforts to prevent and discourage other API Clients from using your credentials. Developer credentials may not be embedded in open source projects.
+Our communications to you and our APIs may contain Google confidential information. Google confidential information includes any materials, communications, and information that are marked confidential or that would normally be considered confidential under the circumstances. If you receive any such information, then you will not disclose it to any third party without Google's prior written consent. Google confidential information does not include information that you independently developed, that was rightfully given to you by a third party without confidentiality obligation, or that becomes public through no fault of your own. You may disclose Google confidential information when compelled to do so by law if you provide us reasonable prior notice, unless a court orders that we not receive notice.
+Content
+a. Content Accessible Through our APIs Our APIs contain some third party content (such as text, images, videos, audio, or software). This content is the sole responsibility of the person that makes it available. We may sometimes review content to determine whether it is illegal or violates our policies or the Terms, and we may remove or refuse to display content. Finally, content accessible through our APIs may be subject to intellectual property rights, and, if so, you may not use it unless you are licensed to do so by the owner of that content or are otherwise permitted by law. Your access to the content provided by the API may be restricted, limited, or filtered in accordance with applicable law, regulation, and policy.
+b. Submission of Content Some of our APIs allow the submission of content. Google does not acquire any ownership of any intellectual property rights in the content that you submit to our APIs through your API Client, except as expressly provided in the Terms. For the sole purpose of enabling Google to provide, secure, and improve the APIs (and the related service(s)) and only in accordance with the applicable Google privacy policies, you give Google a perpetual, irrevocable, worldwide, sublicensable, royalty-free, and non-exclusive license to Use content submitted, posted, or displayed to or from the APIs through your API Client. "Use" means use, host, store, modify, communicate, and publish. Before you submit content to our APIs through your API Client, you will ensure that you have the necessary rights (including the necessary rights from your end users) to grant us the license.
+c. Retrieval of content When a user's non-public content is obtained through the APIs, you may not expose that content to other users or to third parties without explicit opt-in consent from that user.
+d. Data Portability Google supports data portability. For as long as you use or store any user data that you obtained through the APIs, you agree to enable your users to export their equivalent data to other services or applications of their choice in a way that's substantially as fast and easy as exporting such data from Google products and services, subject to applicable laws, and you agree that you will not make that data available to third parties who do not also abide by this obligation.
+e. Prohibitions on Content Unless expressly permitted by the content owner or by applicable law, you will not, and will not permit your end users or others acting on your behalf to, do the following with content returned from the APIs:
+Scrape, build databases, or otherwise create permanent copies of such content, or keep cached copies longer than permitted by the cache header;
+Copy, translate, modify, create a derivative work of, sell, lease, lend, convey, distribute, publicly display, or sublicense to any third party;
+Misrepresent the source or ownership; or
+Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or falsify or delete any author attributions, legal notices, or other labels of the origin or source of material.
+Brand Features; Attribution
+a. Brand Features "Brand Features" is defined as the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party. Except where expressly stated, the Terms do not grant either party any right, title, or interest in or to the other party's Brand Features. All use by you of Google's Brand Features (including any goodwill associated therewith) will inure to the benefit of Google.
+b. Attribution You agree to display any attribution(s) required by Google as described in the documentation for the API. Google hereby grants to you a nontransferable, nonsublicenseable, nonexclusive license while the Terms are in effect to display Google's Brand Features for the purpose of promoting or advertising that you use the APIs. You must only use the Google Brand Features in accordance with the Terms and for the purpose of fulfilling your obligations under this Section. In using Google's Brand Features, you must follow the Google Brand Features Use Guidelines. You understand and agree that Google has the sole discretion to determine whether your attribution(s) and use of Google's Brand Features are in accordance with the above requirements and guidelines.
+c. Publicity You will not make any statement regarding your use of an API which suggests partnership with, sponsorship by, or endorsement by Google without Google's prior written approval.
+d. Promotional and Marketing Use In the course of promoting, marketing, or demonstrating the APIs you are using and the associated Google products, Google may produce and distribute incidental depictions, including screenshots, video, or other content from your API Client, and may use your company or product name. You grant us all necessary rights for the above purposes.
+Privacy and Copyright Protection
+a. Google Privacy Policies By using our APIs, Google may use submitted information in accordance with our privacy policies.
+b. Google DMCA Policy We provide information to help copyright holders manage their intellectual property online, but we can't determine whether something is being used legally or not without their input. We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. Digital Millennium Copyright Act. If you think somebody is violating your copyrights and want to notify us, you can find information about submitting notices and Google's policy about responding to notices in our Help Center.
+Termination
+a. Termination You may stop using our APIs at any time with or without notice. Further, if you want to terminate the Terms, you must provide Google with prior written notice and upon termination, cease your use of the applicable APIs. Google reserves the right to terminate the Terms with you or discontinue the APIs or any portion or feature or your access thereto for any reason and at any time without liability or other obligation to you.
+b. Your Obligations Post-Termination Upon any termination of the Terms or discontinuation of your access to an API, you will immediately stop using the API, cease all use of the Google Brand Features, and delete any cached or stored content that was permitted by the cache header under Section 5. Google may independently communicate with any account owner whose account(s) are associated with your API Client and developer credentials to provide notice of the termination of your right to use an API.
+c. Surviving Provisions When the Terms come to an end, those terms that by their nature are intended to continue indefinitely will continue to apply, including but not limited to: Sections 4b, 5, 8, 9, and 10.
+Liability for our APIs
+A. WARRANTIES EXCEPT AS EXPRESSLY SET OUT IN THE TERMS, NEITHER GOOGLE NOR ITS SUPPLIERS OR DISTRIBUTORS MAKE ANY SPECIFIC PROMISES ABOUT THE APIS. FOR EXAMPLE, WE DON'T MAKE ANY COMMITMENTS ABOUT THE CONTENT ACCESSED THROUGH THE APIS, THE SPECIFIC FUNCTIONS OF THE APIS, OR THEIR RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS. WE PROVIDE THE APIS "AS IS".
+SOME JURISDICTIONS PROVIDE FOR CERTAIN WARRANTIES, LIKE THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. EXCEPT AS EXPRESSLY PROVIDED FOR IN THE TERMS, TO THE EXTENT PERMITTED BY LAW, WE EXCLUDE ALL WARRANTIES, GUARANTEES, CONDITIONS, REPRESENTATIONS, AND UNDERTAKINGS.
+
+B. LIMITATION OF LIABILITY WHEN PERMITTED BY LAW, GOOGLE, AND GOOGLE'S SUPPLIERS AND DISTRIBUTORS, WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR DATA; FINANCIAL LOSSES; OR INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES.
+TO THE EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, FOR ANY CLAIM UNDER THE TERMS, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO THE AMOUNT YOU PAID US TO USE THE APPLICABLE APIS (OR, IF WE CHOOSE, TO SUPPLYING YOU THE APIS AGAIN) DURING THE SIX MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY.
+
+IN ALL CASES, GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE LIABLE FOR ANY EXPENSE, LOSS, OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE.
+
+c. Indemnification Unless prohibited by applicable law, if you are a business, you will defend and indemnify Google, and its affiliates, directors, officers, employees, and users, against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any allegation or third-party legal proceeding to the extent arising from:
+your misuse or your end user's misuse of the APIs;
+your violation or your end user's violation of the Terms; or
+any content or data routed into or used with the APIs by you, those acting on your behalf, or your end users.
+General Provisions
+a. Modification We may modify the Terms or any portion to, for example, reflect changes to the law or changes to our APIs. You should look at the Terms regularly. We'll post notice of modifications to the Terms within the documentation of each applicable API, to this website, and/or in the Google developers console. Changes will not apply retroactively and will become effective no sooner than 30 days after they are posted. But changes addressing new functions for an API or changes made for legal reasons will be effective immediately. If you do not agree to the modified Terms for an API, you should discontinue your use of that API. Your continued use of the API constitutes your acceptance of the modified Terms.
+b. U.S. Federal Agency Entities The APIs were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto.
+c. General Legal Terms We each agree to contract in the English language. If we provide a translation of the Terms, we do so for your convenience only and the English Terms will solely govern our relationship. The Terms do not create any third party beneficiary rights or any agency, partnership, or joint venture. Nothing in the Terms will limit either party's ability to seek injunctive relief. We are not liable for failure or delay in performance to the extent caused by circumstances beyond our reasonable control. If you do not comply with the Terms, and Google does not take action right away, this does not mean that Google is giving up any rights that it may have (such as taking action in the future). If it turns out that a particular term is not enforceable, this will not affect any other terms. The Terms are the entire agreement between you and Google relating to its subject and supersede any prior or contemporaneous agreements on that subject. For information about how to contact Google, please visit our contact page.
+Except as set forth below: (i) the laws of California, U.S.A., excluding California's conflict of laws rules, will apply to any disputes arising out of or related to the Terms or the APIs and (ii) ALL CLAIMS ARISING OUT OF OR RELATING TO THE TERMS OR THE APIS WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA, AND YOU AND GOOGLE CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
+
+If you are accepting the Terms on behalf of a United States federal government entity, then the following applies instead of the paragraph above: the laws of the United States of America, excluding its conflict of laws rules, will apply to any disputes arising out of or related to the Terms or the APIs. Solely to the extent permitted by United States Federal law: (i) the laws of the State of California (excluding California's conflict of laws rules) will apply in the absence of applicable federal law; and (ii) FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE TERMS OR THE APIS, THE PARTIES CONSENT TO PERSONAL JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, THE COURTS IN SANTA CLARA COUNTY, CALIFORNIA.
+
+If you are accepting the Terms on behalf of a United States city, county, or state government entity, then the following applies instead of the paragraph above: the parties agree to remain silent regarding governing law and venue.
+
+Thank you for using Google's APIs, other developer services, and associated software (collectively, "APIs"). By accessing or using our APIs, you are agreeing to the terms below. If there is a conflict between these terms and additional terms applicable to a given API, the additional terms will control for that conflict. Collectively, we refer to the terms below, any additional terms, terms within the accompanying API documentation, and any applicable policies and guidelines as the "Terms." You agree to comply with the Terms and that the Terms control your relationship with us. So please read all the Terms carefully. If you use the APIs as an interface to, or in conjunction with other Google products or services, then the terms for those other products or services also apply.
+
+Under the Terms, "Google" means Google LLC, with offices at 1600 Amphitheatre Parkway, Mountain View, California 94043, United States, unless set forth otherwise in additional terms applicable for a given API. We may refer to "Google" as "we", "our", or "us" in the Terms.
+
+Section 1: Account and Registration
+a. Accepting the Terms
+You may not use the APIs and may not accept the Terms if (a) you are not of legal age to form a binding contract with Google, or (b) you are a person barred from using or receiving the APIs under the applicable laws of the United States or other countries including the country in which you are resident or from which you use the APIs.
+
+b. Entity Level Acceptance
+If you are using the APIs on behalf of an entity, you represent and warrant that you have authority to bind that entity to the Terms and by accepting the Terms, you are doing so on behalf of that entity (and all references to "you" in the Terms refer to that entity).
+
+c. Registration
+In order to access certain APIs you may be required to provide certain information (such as identification or contact details) as part of the registration process for the APIs, or as part of your continued use of the APIs. Any registration information you give to Google will always be accurate and up to date and you'll inform us promptly of any updates.
+
+d. Subsidiaries and Affiliates
+Google has subsidiaries and affiliated legal entities around the world. These companies may provide the APIs to you on behalf of Google and the Terms will also govern your relationship with these companies.
+
+Section 2: Using Our APIs
+a. Your End Users
+You will require your end users to comply with (and not knowingly enable them to violate) applicable law, regulation, and the Terms.
+
+b. Compliance with Law, Third Party Rights, and Other Google Terms of Service
+You will comply with all applicable law, regulation, and third party rights (including without limitation laws regarding the import or export of data or software, privacy, and local laws). You will not use the APIs to encourage or promote illegal activity or violation of third party rights. You will not violate any other terms of service with Google (or its affiliates).
+
+c. Permitted Access
+You will only access (or attempt to access) an API by the means described in the documentation of that API. If Google assigns you developer credentials (e.g. client IDs), you must use them with the applicable APIs. You will not misrepresent or mask either your identity or your API Client's identity when using the APIs or developer accounts.
+
+d. API Limitations
+Google sets and enforces limits on your use of the APIs (e.g. limiting the number of API requests that you may make or the number of users you may serve), in our sole discretion. You agree to, and will not attempt to circumvent, such limitations documented with each API. If you would like to use any API beyond these limits, you must obtain Google's express consent (and Google may decline such request or condition acceptance on your agreement to additional terms and/or charges for that use). To seek such approval, contact the relevant Google API team for information (e.g. by using the Google developers console).
+
+e. Open Source Software
+Some of the software required by or included in our APIs may be offered under an open source license. Open source software licenses constitute separate written agreements. For certain APIs, open source software is listed in the documentation. To the limited extent the open source software license expressly supersedes the Terms, the open source license instead sets forth your agreement with Google for the applicable open source software.
+
+f. Communication with Google
+We may send you certain communications in connection with your use of the APIs. Please review the applicable API documentation for information about opting out of certain types of communication.
+
+g. Feedback
+If you provide feedback or suggestions about our APIs, then we (and those we allow) may use such information without obligation to you.
+
+h. Non-Exclusivity
+The Terms are non-exclusive. You acknowledge that Google may develop products or services that may compete with the API Clients or any other products or services.
+
+i. Google Controller-Controller Data Protection Terms
+To the extent required by data protection laws applicable to the parties' processing of personal data under these Terms, the parties agree to the Google Controller-Controller Data Protection Terms.
+
+Section 3: Your API Clients
+a. API Clients and Monitoring
+The APIs are designed to help you enhance your websites and applications ("API Client(s)"). YOU AGREE THAT GOOGLE MAY MONITOR USE OF THE APIS TO ENSURE QUALITY, IMPROVE GOOGLE PRODUCTS AND SERVICES, AND VERIFY YOUR COMPLIANCE WITH THE TERMS. This monitoring may include Google accessing and using your API Client, for example to identify security issues that could affect Google or its users. You will not interfere with this monitoring. Google may use any technical means to overcome such interference. Google may suspend access to the APIs by you or your API Client without notice if we reasonably believe that you are in violation of the Terms.
+
+b. Security
+You will use commercially reasonable efforts to protect user information collected by your API Client, including personal data, from unauthorized access or use and will promptly report to your users any unauthorized access or use of such information to the extent required by applicable law.
+
+c. Ownership
+Google does not acquire ownership in your API Clients, and by using our APIs, you do not acquire ownership of any rights in our APIs or the content that is accessed through our APIs.
+
+d. User Privacy and API Clients
+You will comply with (1) all applicable privacy laws and regulations including those applying to personal data and (2) the Google API Services User Data Policy, which governs your use of the APIs when you request access to Google user information. You will provide and adhere to a privacy policy for your API Client that clearly and accurately describes to users of your API Client what user information you collect and how you use and share such information (including for advertising) with Google and third parties.
+
+Section 4: Prohibitions and Confidentiality
+a. API Prohibitions
+When using the APIs, you may not (or allow those acting on your behalf to):
+
+Sublicense an API for use by a third party. Consequently, you will not create an API Client that functions substantially the same as the APIs and offer it for use by third parties.
+Perform an action with the intent of introducing to Google products and services any viruses, worms, defects, Trojan horses, malware, or any items of a destructive nature.
+Defame, abuse, harass, stalk, or threaten others.
+Interfere with or disrupt the APIs or the servers or networks providing the APIs.
+Promote or facilitate unlawful online gambling or disruptive commercial messages or advertisements.
+Reverse engineer or attempt to extract the source code from any API or any related software, except to the extent that this restriction is expressly prohibited by applicable law.
+Use the APIs for any activities where the use or failure of the APIs could lead to death, personal injury, or environmental damage (such as the operation of nuclear facilities, air traffic control, or life support systems).
+Use the APIs to process or store any data that is subject to the International Traffic in Arms Regulations maintained by the U.S. Department of State.
+Remove, obscure, or alter any Google terms of service or any links to or notices of those terms.
+Unless otherwise specified in writing by Google, Google does not intend use of the APIs to create obligations under the Health Insurance Portability and Accountability Act, as amended ("HIPAA"), and makes no representations that the APIs satisfy HIPAA requirements. If you are (or become) a "covered entity" or "business associate" as defined in HIPAA, you will not use the APIs for any purpose or in any manner involving transmitting protected health information to Google unless you have received prior written consent to such use from Google.
+
+b. Confidential Matters
+Developer credentials (such as passwords, keys, and client IDs) are intended to be used by you and identify your API Client. You will keep your credentials confidential and make reasonable efforts to prevent and discourage other API Clients from using your credentials. Developer credentials may not be embedded in open source projects.
+Our communications to you and our APIs may contain Google confidential information. Google confidential information includes any materials, communications, and information that are marked confidential or that would normally be considered confidential under the circumstances. If you receive any such information, then you will not disclose it to any third party without Google's prior written consent. Google confidential information does not include information that you independently developed, that was rightfully given to you by a third party without confidentiality obligation, or that becomes public through no fault of your own. You may disclose Google confidential information when compelled to do so by law if you provide us reasonable prior notice, unless a court orders that we not receive notice.
+Section 5: Content
+a. Content Accessible Through our APIs
+Our APIs contain some third party content (such as text, images, videos, audio, or software). This content is the sole responsibility of the person that makes it available. We may sometimes review content to determine whether it is illegal or violates our policies or the Terms, and we may remove or refuse to display content. Finally, content accessible through our APIs may be subject to intellectual property rights, and, if so, you may not use it unless you are licensed to do so by the owner of that content or are otherwise permitted by law. Your access to the content provided by the API may be restricted, limited, or filtered in accordance with applicable law, regulation, and policy.
+
+b. Submission of Content
+Some of our APIs allow the submission of content. Google does not acquire any ownership of any intellectual property rights in the content that you submit to our APIs through your API Client, except as expressly provided in the Terms. For the sole purpose of enabling Google to provide, secure, and improve the APIs (and the related service(s)) and only in accordance with the applicable Google privacy policies, you give Google a perpetual, irrevocable, worldwide, sublicensable, royalty-free, and non-exclusive license to Use content submitted, posted, or displayed to or from the APIs through your API Client. "Use" means use, host, store, modify, communicate, and publish. Before you submit content to our APIs through your API Client, you will ensure that you have the necessary rights (including the necessary rights from your end users) to grant us the license.
+
+c. Retrieval of content
+When a user's non-public content is obtained through the APIs, you may not expose that content to other users or to third parties without explicit opt-in consent from that user.
+
+d. Data Portability
+Google supports data portability. For as long as you use or store any user data that you obtained through the APIs, you agree to enable your users to export their equivalent data to other services or applications of their choice in a way that's substantially as fast and easy as exporting such data from Google products and services, subject to applicable laws, and you agree that you will not make that data available to third parties who do not also abide by this obligation.
+
+e. Prohibitions on Content
+Unless expressly permitted by the content owner or by applicable law, you will not, and will not permit your end users or others acting on your behalf to, do the following with content returned from the APIs:
+
+Scrape, build databases, or otherwise create permanent copies of such content, or keep cached copies longer than permitted by the cache header;
+Copy, translate, modify, create a derivative work of, sell, lease, lend, convey, distribute, publicly display, or sublicense to any third party;
+Misrepresent the source or ownership; or
+Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or falsify or delete any author attributions, legal notices, or other labels of the origin or source of material.
+Section 6: Brand Features; Attribution
+a. Brand Features
+"Brand Features" is defined as the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party. Except where expressly stated, the Terms do not grant either party any right, title, or interest in or to the other party's Brand Features. All use by you of Google's Brand Features (including any goodwill associated therewith) will inure to the benefit of Google.
+
+b. Attribution
+You agree to display any attribution(s) required by Google as described in the documentation for the API. Google hereby grants to you a nontransferable, nonsublicenseable, nonexclusive license while the Terms are in effect to display Google's Brand Features for the purpose of promoting or advertising that you use the APIs. You must only use the Google Brand Features in accordance with the Terms and for the purpose of fulfilling your obligations under this Section. In using Google's Brand Features, you must follow the Google Brand Features Use Guidelines. You understand and agree that Google has the sole discretion to determine whether your attribution(s) and use of Google's Brand Features are in accordance with the above requirements and guidelines.
+
+c. Publicity
+You will not make any statement regarding your use of an API which suggests partnership with, sponsorship by, or endorsement by Google without Google's prior written approval.
+
+d. Promotional and Marketing Use
+In the course of promoting, marketing, or demonstrating the APIs you are using and the associated Google products, Google may produce and distribute incidental depictions, including screenshots, video, or other content from your API Client, and may use your company or product name. You grant us all necessary rights for the above purposes.
+
+Section 7: Privacy and Copyright Protection
+a. Google Privacy Policies
+By using our APIs, Google may use submitted information in accordance with our privacy policies.
+
+b. Google DMCA Policy
+We provide information to help copyright holders manage their intellectual property online, but we can't determine whether something is being used legally or not without their input. We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. Digital Millennium Copyright Act. If you think somebody is violating your copyrights and want to notify us, you can find information about submitting notices and Google's policy about responding to notices in our Help Center.
+
+Section 8: Termination
+a. Termination
+You may stop using our APIs at any time with or without notice. Further, if you want to terminate the Terms, you must provide Google with prior written notice and upon termination, cease your use of the applicable APIs. Google reserves the right to terminate the Terms with you or discontinue the APIs or any portion or feature or your access thereto for any reason and at any time without liability or other obligation to you.
+
+b. Your Obligations Post-Termination
+Upon any termination of the Terms or discontinuation of your access to an API, you will immediately stop using the API, cease all use of the Google Brand Features, and delete any cached or stored content that was permitted by the cache header under Section 5. Google may independently communicate with any account owner whose account(s) are associated with your API Client and developer credentials to provide notice of the termination of your right to use an API.
+
+c. Surviving Provisions
+When the Terms come to an end, those terms that by their nature are intended to continue indefinitely will continue to apply, including but not limited to: Sections 4b, 5, 8, 9, and 10.
+
+Section 9: Liability for our APIs
+a. WARRANTIES
+EXCEPT AS EXPRESSLY SET OUT IN THE TERMS, NEITHER GOOGLE NOR ITS SUPPLIERS OR DISTRIBUTORS MAKE ANY SPECIFIC PROMISES ABOUT THE APIS. FOR EXAMPLE, WE DON'T MAKE ANY COMMITMENTS ABOUT THE CONTENT ACCESSED THROUGH THE APIS, THE SPECIFIC FUNCTIONS OF THE APIS, OR THEIR RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS. WE PROVIDE THE APIS "AS IS".
+
+SOME JURISDICTIONS PROVIDE FOR CERTAIN WARRANTIES, LIKE THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. EXCEPT AS EXPRESSLY PROVIDED FOR IN THE TERMS, TO THE EXTENT PERMITTED BY LAW, WE EXCLUDE ALL WARRANTIES, GUARANTEES, CONDITIONS, REPRESENTATIONS, AND UNDERTAKINGS.
+
+b. LIMITATION OF LIABILITY
+WHEN PERMITTED BY LAW, GOOGLE, AND GOOGLE'S SUPPLIERS AND DISTRIBUTORS, WILL NOT BE RESPONSIBLE FOR LOST PROFITS, REVENUES, OR DATA; FINANCIAL LOSSES; OR INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES.
+
+TO THE EXTENT PERMITTED BY LAW, THE TOTAL LIABILITY OF GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, FOR ANY CLAIM UNDER THE TERMS, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO THE AMOUNT YOU PAID US TO USE THE APPLICABLE APIS (OR, IF WE CHOOSE, TO SUPPLYING YOU THE APIS AGAIN) DURING THE SIX MONTHS PRIOR TO THE EVENT GIVING RISE TO THE LIABILITY.
+
+IN ALL CASES, GOOGLE, AND ITS SUPPLIERS AND DISTRIBUTORS, WILL NOT BE LIABLE FOR ANY EXPENSE, LOSS, OR DAMAGE THAT IS NOT REASONABLY FORESEEABLE.
+
+c. Indemnification
+Unless prohibited by applicable law, if you are a business, you will defend and indemnify Google, and its affiliates, directors, officers, employees, and users, against all liabilities, damages, losses, costs, fees (including legal fees), and expenses relating to any allegation or third-party legal proceeding to the extent arising from:
+
+your misuse or your end user's misuse of the APIs;
+your violation or your end user's violation of the Terms; or
+any content or data routed into or used with the APIs by you, those acting on your behalf, or your end users.
+Section 10: General Provisions
+a. Modification
+We may modify the Terms or any portion to, for example, reflect changes to the law or changes to our APIs. You should look at the Terms regularly. We'll post notice of modifications to the Terms within the documentation of each applicable API, to this website, and/or in the Google developers console. Changes will not apply retroactively and will become effective no sooner than 30 days after they are posted. But changes addressing new functions for an API or changes made for legal reasons will be effective immediately. If you do not agree to the modified Terms for an API, you should discontinue your use of that API. Your continued use of the API constitutes your acceptance of the modified Terms.
+
+b. U.S. Federal Agency Entities
+The APIs were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto.
+
+c. General Legal Terms
+We each agree to contract in the English language. If we provide a translation of the Terms, we do so for your convenience only and the English Terms will solely govern our relationship. The Terms do not create any third party beneficiary rights or any agency, partnership, or joint venture. Nothing in the Terms will limit either party's ability to seek injunctive relief. We are not liable for failure or delay in performance to the extent caused by circumstances beyond our reasonable control. If you do not comply with the Terms, and Google does not take action right away, this does not mean that Google is giving up any rights that it may have (such as taking action in the future). If it turns out that a particular term is not enforceable, this will not affect any other terms. The Terms are the entire agreement between you and Google relating to its subject and supersede any prior or contemporaneous agreements on that subject. For information about how to contact Google, please visit our contact page.
+
+Except as set forth below: (i) the laws of California, U.S.A., excluding California's conflict of laws rules, will apply to any disputes arising out of or related to the Terms or the APIs and (ii) ALL CLAIMS ARISING OUT OF OR RELATING TO THE TERMS OR THE APIS WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA, AND YOU AND GOOGLE CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
+
+If you are accepting the Terms on behalf of a United States federal government entity, then the following applies instead of the paragraph above: the laws of the United States of America, excluding its conflict of laws rules, will apply to any disputes arising out of or related to the Terms or the APIs. Solely to the extent permitted by United States Federal law: (i) the laws of the State of California (excluding California's conflict of laws rules) will apply in the absence of applicable federal law; and (ii) FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE TERMS OR THE APIS, THE PARTIES CONSENT TO PERSONAL JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, THE COURTS IN SANTA CLARA COUNTY, CALIFORNIA.
+
+If you are accepting the Terms on behalf of a United States city, county, or state government entity, then the following applies instead of the paragraph above: the parties agree to remain silent regarding governing law and venue.
+<html>
+    <head>
+        <title>Wallet API Terms of Service</title>
+    </head>
+    <body>
+        <style type="text/css">
+            @import url(https://themes.googleusercontent.com/fonts/css?kit=DFQxm4rd7fRHgM9OTejWVSenZfp837hVvoP-hutgaAqdU2UdszIFv-JbwcPrcubs);ol {
+                margin: 0;
+                padding: 0
+            }
+
+            table td,table th {
+                padding: 0
+            }
+
+            .c8 {
+                border-right-style: solid;
+                border-top-width: 0pt;
+                border-right-width: 0pt;
+                padding-left: 0pt;
+                border-left-width: 0pt;
+                border-top-style: solid;
+                background-color: #ffffff;
+                border-left-style: solid;
+                border-bottom-width: 0pt;
+                border-bottom-style: solid;
+                padding-right: 0pt
+            }
+
+            .c0 {
+                background-color: #ffffff;
+                color: #202124;
+                font-weight: 700;
+                text-decoration: none;
+                vertical-align: baseline;
+                font-size: 17pt;
+                font-family: "Roboto";
+                font-style: normal
+            }
+
+            .c7 {
+                background-color: #ffffff;
+                color: #202124;
+                font-weight: 400;
+                text-decoration: none;
+                vertical-align: baseline;
+                font-size: 24pt;
+                font-family: "Google Sans";
+                font-style: normal
+            }
+
+            .c10 {
+                background-color: #ffffff;
+                -webkit-text-decoration-skip: none;
+                color: #1155cc;
+                font-weight: 400;
+                text-decoration: underline;
+                text-decoration-skip-ink: none;
+                font-size: 12pt;
+                font-family: "Roboto"
+            }
+
+            .c2 {
+                background-color: #ffffff;
+                color: #202124;
+                font-weight: 400;
+                text-decoration: none;
+                vertical-align: baseline;
+                font-size: 12pt;
+                font-family: "Roboto";
+                font-style: normal
+            }
+
+            .c5 {
+                background-color: #ffffff;
+                padding-top: 18pt;
+                padding-bottom: 4pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .c3 {
+                padding-top: 0pt;
+                padding-bottom: 0pt;
+                line-height: 1.15;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .c9 {
+                background-color: #ffffff;
+                font-size: 12pt;
+                font-family: "Roboto";
+                color: #202124;
+                font-weight: 400
+            }
+
+            .c6 {
+                background-color: #ffffff;
+                max-width: 468pt;
+                padding: 72pt 72pt 72pt 72pt
+            }
+
+            .c1 {
+                color: inherit;
+                text-decoration: inherit
+            }
+
+            .c4 {
+                height: 11pt
+            }
+
+            .title {
+                padding-top: 0pt;
+                color: #000000;
+                font-size: 26pt;
+                padding-bottom: 3pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            .subtitle {
+                padding-top: 0pt;
+                color: #666666;
+                font-size: 15pt;
+                padding-bottom: 16pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            li {
+                color: #000000;
+                font-size: 11pt;
+                font-family: "Arial"
+            }
+
+            p {
+                margin: 0;
+                color: #000000;
+                font-size: 11pt;
+                font-family: "Arial"
+            }
+
+            h1 {
+                padding-top: 20pt;
+                color: #000000;
+                font-size: 20pt;
+                padding-bottom: 6pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h2 {
+                padding-top: 18pt;
+                color: #000000;
+                font-size: 16pt;
+                padding-bottom: 6pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h3 {
+                padding-top: 16pt;
+                color: #434343;
+                font-size: 14pt;
+                padding-bottom: 4pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h4 {
+                padding-top: 14pt;
+                color: #666666;
+                font-size: 12pt;
+                padding-bottom: 4pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h5 {
+                padding-top: 12pt;
+                color: #666666;
+                font-size: 11pt;
+                padding-bottom: 4pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+
+            h6 {
+                padding-top: 12pt;
+                color: #666666;
+                font-size: 11pt;
+                padding-bottom: 4pt;
+                font-family: "Arial";
+                line-height: 1.15;
+                page-break-after: avoid;
+                font-style: italic;
+                orphans: 2;
+                widows: 2;
+                text-align: left
+            }
+        </style>
+        <p class="c3">
+            <span class="c7">Google Wallet API Terms of Service</span>
+        </p>
+        <p class="c8 c3">
+            <span class="c2">Last modified: June 8th, 2022</span>
+        </p>
+        <p class="c3 c4">
+            <span class="c2"></span>
+        </p>
+        <p class="c3 c8">
+            <span class="c9">By using the Google Wallet API (the &quot;API &quot;) to make loyalty cards, boarding passes, event tickets and other objects (“Wallet Objects”) available on Google Wallet, you consent to be bound by these terms in addition to the Google APIs Terms of Service (&quot;API ToS &quot;) at </span>
+            <span class="c10">
+                <a class="c1" href="https://developers.google.com/terms">https://developers.google.com/terms</a>
+            </span>
+            <span class="c2">. Any capitalized terms not defined in these terms will have the definitions set forth in the API ToS. To the extent there is any inconsistency between these terms and the terms of the API ToS, these terms will control.</span>
+        </p>
+        <p class="c3 c4">
+            <span class="c2"></span>
+        </p>
+        <h2 class="c5" id="h.fauj7znuxe94">
+            <span class="c0">Content Policy</span>
+        </h2>
+        <p class="c3">
+            <span class="c9">You may not use the API: (1) to promote or facilitate an unlawful transaction or the sale or exchange of any unlawful or prohibited goods or services, or (2) in violation of the Acceptable Use Policy at </span>
+            <span class="c10">
+                <a class="c1" href="https://payments.developers.google.com/terms/aup">https://payments.developers.google.com/terms/aup</a>
+            </span>
+            <span class="c2">. The Acceptable Use Policy may be updated by Google from time to time in accordance with its terms and such updates will automatically become a part of these terms.</span>
+        </p>
+        <p class="c3 c4">
+            <span class="c2"></span>
+        </p>
+        <p class="c3 c4">
+            <span class="c2"></span>
+        </p>
+        <h2 class="c5" id="h.qnk6uabr17xv">
+            <span class="c0">Brand Features</span>
+        </h2>
+        <p class="c8 c3">
+            <span class="c9">In using Google &#39;s Brand Features in connection with the API and Wallet Passes, you must follow the Google Wallet Brand Guidelines available for different passes at </span>
+            <span class="c10">
+                <a class="c1" href="https://developers.google.com/wallet">https://developers.google.com/wallet</a>
+            </span>
+            <span class="c9">in addition to the Google Brand Features Use Guidelines at </span>
+            <span class="c10">
+                <a class="c1" href="https://www.google.com/permissions">https://www.google.com/permissions</a>
+            </span>
+            <span class="c2">.</span>
+        </p>
+        <h2 class="c5" id="h.5pceu2qy8jnp">
+            <span class="c0">Aggregators</span>
+        </h2>
+        <p class="c8 c3">
+            <span class="c2">If you are an aggregator submitting content to Google via the API on behalf of other parties, including any third-party Brand Features, you represent and warrant that you are authorized by such third parties and otherwise have all rights necessary to grant to Google the license to Use such content as set forth in the API ToS. You are solely responsible to Google for any content submitted through the API.</span>
+        </p>
+        <h2 class="c5" id="h.y9n598z9jjb8">
+            <span class="c0">End User Information</span>
+        </h2>
+        <p class="c8 c3">
+            <span class="c2">You may receive information relating to an end user (which may include personal data) through the API, such as a signal that an end user has added, activated, used, or removed a Wallet Object. Your use of any Information you receive will comply with your privacy policy, data security policy, terms and conditions with end users, and applicable laws.</span>
+        </p>
+        <p class="c8 c3">
+            <span class="c2">In addition to submitting content via the API, in some instances you may submit information (which may include personal data) relating to Wallet Objects through the API, for example, to facilitate Google’s generation of such Wallet Objects. Google may Use the information you submit to provide and improve its products and services for end users, subject to compliance with our privacy policy and any applicable terms with end users. For any information submitted via the API, you represent and warrant that (i) you have the necessary rights (including any necessary rights from your end users) to submit such information for the purposes set forth herein, and (ii) your submission of such information complies with all applicable laws, including data privacy laws.</span>
+        </p>
+        <h2 class="c5" id="h.cw72eq45mcqh">
+            <span class="c0">Wallet Objects</span>
+        </h2>
+        <p class="c8 c3">
+            <span class="c2">You will take all commercially reasonable steps to ensure that your Wallet Objects (i.e. the Wallet Objects generated from the content and/or information submitted by you through the API) are up-to-date and otherwise in condition to be accepted upon presentment by the end user. Without limiting the foregoing, if your Wallet Object requires the submission and caching of content and/or information by Google, you will ensure that the content and information submitted is current and is not associated with an account or object that has been removed, suspended, or canceled, for example due to non-use, inactivity or fraud; you will re-submit any such content or information if required. In the event you or Google become aware that your Wallet Objects are not up-to-date or otherwise are not being accepted upon presentment, you will promptly notify Google of the issue (or promptly respond to Google in the event Google notifies you of the issue) and will work together with Google in good faith to resolve the issue expediently to minimize disruption to end users. Google may in its discretion suspend your Wallet Objects and/or your access to the API until Google is satisfied with the end user experience with your Wallet Object.</span>
+        </p>
+        <p class="c3 c4">
+            <span class="c2"></span>
+        </p>
+        <p class="c3 c4">
+            <span class="c2"></span>
+        </p>
+        <p class="c3 c4">
+            <span class="c2"></span>
+        </p>
+    </body>
+</html>
+Google Wallet API Terms of Service
+
+Last modified: June 8th, 2022
+
+
+By using the Google Wallet API (the "API") to make loyalty cards, boarding passes, event tickets and other objects (“Wallet Objects”) available on Google Wallet, you consent to be bound by these terms in addition to the Google APIs Terms of Service ("API ToS") at https://developers.google.com/terms. Any capitalized terms not defined in these terms will have the definitions set forth in the API ToS. To the extent there is any inconsistency between these terms and the terms of the API ToS, these terms will control.
+
+
+Content Policy
+You may not use the API: (1) to promote or facilitate an unlawful transaction or the sale or exchange of any unlawful or prohibited goods or services, or (2) in violation of the Acceptable Use Policy at https://payments.developers.google.com/terms/aup. The Acceptable Use Policy may be updated by Google from time to time in accordance with its terms and such updates will automatically become a part of these terms.
+
+
+
+Brand Features
+In using Google's Brand Features in connection with the API and Wallet Passes, you must follow the Google Wallet Brand Guidelines available for different passes at https://developers.google.com/wallet in addition to the Google Brand Features Use Guidelines at https://www.google.com/permissions.
+
+Aggregators
+If you are an aggregator submitting content to Google via the API on behalf of other parties, including any third-party Brand Features, you represent and warrant that you are authorized by such third parties and otherwise have all rights necessary to grant to Google the license to Use such content as set forth in the API ToS. You are solely responsible to Google for any content submitted through the API.
+
+End User Information
+You may receive information relating to an end user (which may include personal data) through the API, such as a signal that an end user has added, activated, used, or removed a Wallet Object. Your use of any Information you receive will comply with your privacy policy, data security policy, terms and conditions with end users, and applicable laws.
+
+In addition to submitting content via the API, in some instances you may submit information (which may include personal data) relating to Wallet Objects through the API, for example, to facilitate Google’s generation of such Wallet Objects. Google may Use the information you submit to provide and improve its products and services for end users, subject to compliance with our privacy policy and any applicable terms with end users. For any information submitted via the API, you represent and warrant that (i) you have the necessary rights (including any necessary rights from your end users) to submit such information for the purposes set forth herein, and (ii) your submission of such information complies with all applicable laws, including data privacy laws.
+
+Wallet Objects
+You will take all commercially reasonable steps to ensure that your Wallet Objects (i.e. the Wallet Objects generated from the content and/or information submitted by you through the API) are up-to-date and otherwise in condition to be accepted upon presentment by the end user. Without limiting the foregoing, if your Wallet Object requires the submission and caching of content and/or information by Google, you will ensure that the content and information submitted is current and is not associated with an account or object that has been removed, suspended, or canceled, for example due to non-use, inactivity or fraud; you will re-submit any such content or information if required. In the event you or Google become aware that your Wallet Objects are not up-to-date or otherwise are not being accepted upon presentment, you will promptly notify Google of the issue (or promptly respond to Google in the event Google notifies you of the issue) and will work together with Google in good faith to resolve the issue expediently to minimize disruption to end users. Google may in its discretion suspend your Wallet Objects and/or your access to the API until Google is satisfied with the end user experience with your Wallet Object.
+
+
+
